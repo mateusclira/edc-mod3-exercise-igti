@@ -20,7 +20,7 @@ class CryptoStream:
     def __init__(self):
         self.params = {
             "accept": "application/json", 
-            "X-API-Token": os.environ['API_TOKEN'],
+            "X-API-Token": os.environ["API_TOKEN"],
         }
         self.base_url = "https://api.blockchain.com/v3/exchange/l2/"
         self.raw_path = 'data/btc_stream/raw'
