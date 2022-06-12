@@ -1,2 +1,3 @@
-# Tecnologias de Big Data - Processamento de Dados Massivos
-Esse é o repositório da disciplina Processamento de Dados Massivos, o móudlo 3 do Bootcamp Engenheiro de Dados Cloud. Aqui será encontrado todo o código utilizado durante as aulas, bem como alguns outros recursos para auxiliar no desenvolvimento das tarefas.
+# Big Data Technologies - Data Processing
+
+[![Spark](https://github.com/mateusclira/edc-mod3-exercise-igti/images/spark.png)](https://www.youtube.com/watch?v=Xxpr1-H9D7U "Spark Streaming")
